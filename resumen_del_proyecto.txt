@@ -1,0 +1,14 @@
+RESUMEN DEL PROYECTO - PIS (FUNDACIÓN FAMILIA DE FAMILIAS)
+Actividad 4 · Momento 1 - Sesión 6
+Carrera de Tecnologías de la Información - Universidad Tecnológica Indoamérica
+
+Integrantes del equipo:
+- Emily Yesenia Guerra Cortez
+- Doménica Ochoa
+- Hilary Ochoa
+
+Síntesis del trabajo:
+Este repositorio reúne la documentación académica y el análisis realizado por el equipo sobre el uso de las TIC, la evaluación de repositorios Web 2.0 (seleccionando GitHub para el trabajo colaborativo), los criterios de pertinencia social y protección de datos para el caso de la Fundación Familia de Familias, y la prueba guiada de inteligencia artificial generativa utilizando datos ficticios.
+
+Privacidad:
+No se incluyen datos personales reales de beneficiarios ni de voluntarios.
